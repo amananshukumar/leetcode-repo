@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/amananshukumar/leetcode-repo/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/amananshukumar/leetcode-repo/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amananshukumar/leetcode-repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/amananshukumar/leetcode-repo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/amananshukumar/leetcode-repo/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amananshukumar/leetcode-repo/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amananshukumar/leetcode-repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
