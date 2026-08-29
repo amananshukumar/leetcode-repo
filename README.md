@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amananshukumar/leetcode-repo/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/amananshukumar/leetcode-repo/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0189-rotate-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amananshukumar/leetcode-repo/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/amananshukumar/leetcode-repo/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amananshukumar/leetcode-repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amananshukumar/leetcode-repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
