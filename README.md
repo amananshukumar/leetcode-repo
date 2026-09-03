@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/amananshukumar/leetcode-repo/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/amananshukumar/leetcode-repo/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/amananshukumar/leetcode-repo/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/amananshukumar/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/amananshukumar/leetcode-repo/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amananshukumar/leetcode-repo/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/amananshukumar/leetcode-repo/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/amananshukumar/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/amananshukumar/leetcode-repo/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/1140-stone-game-ii) |
