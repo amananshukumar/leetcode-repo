@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amananshukumar/leetcode-repo/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/amananshukumar/leetcode-repo/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/amananshukumar/leetcode-repo/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/amananshukumar/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/amananshukumar/leetcode-repo/tree/master/0877-stone-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/amananshukumar/leetcode-repo/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/amananshukumar/leetcode-repo/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amananshukumar/leetcode-repo/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amananshukumar/leetcode-repo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
