@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/amananshukumar/leetcode-repo/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/amananshukumar/leetcode-repo/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amananshukumar/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/amananshukumar/leetcode-repo/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/amananshukumar/leetcode-repo/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0189-rotate-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amananshukumar/leetcode-repo/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [1386-cinema-seat-allocation](https://github.com/amananshukumar/leetcode-repo/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amananshukumar/leetcode-repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amananshukumar/leetcode-repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amananshukumar/leetcode-repo/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
