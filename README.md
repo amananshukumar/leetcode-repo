@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/amananshukumar/leetcode-repo/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/amananshukumar/leetcode-repo/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/amananshukumar/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amananshukumar/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/amananshukumar/leetcode-repo/tree/master/0136-single-number) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/amananshukumar/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amananshukumar/leetcode-repo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/amananshukumar/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amananshukumar/leetcode-repo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
