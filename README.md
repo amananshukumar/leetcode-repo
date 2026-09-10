@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amananshukumar/leetcode-repo/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/amananshukumar/leetcode-repo/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/amananshukumar/leetcode-repo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/amananshukumar/leetcode-repo/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/amananshukumar/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amananshukumar/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amananshukumar/leetcode-repo/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/amananshukumar/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/amananshukumar/leetcode-repo/tree/master/0877-stone-game) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amananshukumar/leetcode-repo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amananshukumar/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amananshukumar/leetcode-repo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
