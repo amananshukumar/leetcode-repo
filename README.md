@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/amananshukumar/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/amananshukumar/leetcode-repo/tree/master/0485-max-consecutive-ones) |
+| [0835-image-overlap](https://github.com/amananshukumar/leetcode-repo/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/amananshukumar/leetcode-repo/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/amananshukumar/leetcode-repo/tree/master/1386-cinema-seat-allocation) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/amananshukumar/leetcode-repo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amananshukumar/leetcode-repo/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/amananshukumar/leetcode-repo/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amananshukumar/leetcode-repo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
