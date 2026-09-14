@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/amananshukumar/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/amananshukumar/leetcode-repo/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/amananshukumar/leetcode-repo/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/amananshukumar/leetcode-repo/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/amananshukumar/leetcode-repo/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/1140-stone-game-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/amananshukumar/leetcode-repo/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amananshukumar/leetcode-repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amananshukumar/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
