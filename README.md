@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/amananshukumar/leetcode-repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amananshukumar/leetcode-repo/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/amananshukumar/leetcode-repo/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amananshukumar/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amananshukumar/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/amananshukumar/leetcode-repo/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amananshukumar/leetcode-repo/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amananshukumar/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amananshukumar/leetcode-repo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/amananshukumar/leetcode-repo/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/amananshukumar/leetcode-repo/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amananshukumar/leetcode-repo/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amananshukumar/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amananshukumar/leetcode-repo/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/amananshukumar/leetcode-repo/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/amananshukumar/leetcode-repo/tree/master/0283-move-zeroes) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amananshukumar/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amananshukumar/leetcode-repo/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Minimax
