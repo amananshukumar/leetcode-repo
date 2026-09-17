@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amananshukumar/leetcode-repo/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/amananshukumar/leetcode-repo/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/amananshukumar/leetcode-repo/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/amananshukumar/leetcode-repo/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/amananshukumar/leetcode-repo/tree/master/1386-cinema-seat-allocation) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/amananshukumar/leetcode-repo/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amananshukumar/leetcode-repo/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/amananshukumar/leetcode-repo/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amananshukumar/leetcode-repo/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amananshukumar/leetcode-repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amananshukumar/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
