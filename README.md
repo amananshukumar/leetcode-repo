@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/amananshukumar/leetcode-repo/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/amananshukumar/leetcode-repo/tree/master/0707-design-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/amananshukumar/leetcode-repo/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
 |  |
@@ -319,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/amananshukumar/leetcode-repo/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/amananshukumar/leetcode-repo/tree/master/1401-circle-and-rectangle-overlapping) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/amananshukumar/leetcode-repo/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
