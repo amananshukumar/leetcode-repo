@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/amananshukumar/leetcode-repo/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/amananshukumar/leetcode-repo/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/amananshukumar/leetcode-repo/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/amananshukumar/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/amananshukumar/leetcode-repo/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/amananshukumar/leetcode-repo/tree/master/0877-stone-game) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/amananshukumar/leetcode-repo/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/amananshukumar/leetcode-repo/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/amananshukumar/leetcode-repo/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amananshukumar/leetcode-repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amananshukumar/leetcode-repo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/amananshukumar/leetcode-repo/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/amananshukumar/leetcode-repo/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/amananshukumar/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amananshukumar/leetcode-repo/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
