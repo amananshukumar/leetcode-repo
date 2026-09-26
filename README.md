@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/amananshukumar/leetcode-repo/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/amananshukumar/leetcode-repo/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/amananshukumar/leetcode-repo/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/amananshukumar/leetcode-repo/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amananshukumar/leetcode-repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amananshukumar/leetcode-repo/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/amananshukumar/leetcode-repo/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
