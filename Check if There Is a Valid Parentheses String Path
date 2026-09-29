@@ -1,0 +1,63 @@
+class Solution {
+    public boolean hasValidPath(char[][] grid) {
+        int m = grid.length;
+        int n = grid[0].length;
+
+        // A valid parentheses string must have even length.
+        if ((m + n - 1) % 2 != 0) {
+            return false;
+        }
+
+        boolean[][][] dp = new boolean[m][n][m + n];
+
+        // Starting cell must be '('.
+        if (grid[0][0] == '(') {
+            dp[0][0][1] = true;
+        }
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+
+                // Starting cell is already initialized.
+                if (i == 0 && j == 0) {
+                    continue;
+                }
+
+                for (int balance = 0; balance < m + n; balance++) {
+
+                    if (grid[i][j] == '(') {
+                        // Current cell adds '('.
+                        int prevBalance = balance - 1;
+
+                        if (prevBalance >= 0) {
+                            if (i > 0 && dp[i - 1][j][prevBalance]) {
+                                dp[i][j][balance] = true;
+                            }
+
+                            if (j > 0 && dp[i][j - 1][prevBalance]) {
+                                dp[i][j][balance] = true;
+                            }
+                        }
+
+                    } else {
+                        // Current cell adds ')'.
+                        int prevBalance = balance + 1;
+
+                        if (prevBalance < m + n) {
+                            if (i > 0 && dp[i - 1][j][prevBalance]) {
+                                dp[i][j][balance] = true;
+                            }
+
+                            if (j > 0 && dp[i][j - 1][prevBalance]) {
+                                dp[i][j][balance] = true;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        // We need balance = 0 at the bottom-right.
+        return dp[m - 1][n - 1][0];
+    }
+}
