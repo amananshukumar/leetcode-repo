@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/amananshukumar/leetcode-repo/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/amananshukumar/leetcode-repo/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/amananshukumar/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/amananshukumar/leetcode-repo/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/amananshukumar/leetcode-repo/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amananshukumar/leetcode-repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/amananshukumar/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/amananshukumar/leetcode-repo/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amananshukumar/leetcode-repo/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/amananshukumar/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amananshukumar/leetcode-repo/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/amananshukumar/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amananshukumar/leetcode-repo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amananshukumar/leetcode-repo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amananshukumar/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/amananshukumar/leetcode-repo/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/amananshukumar/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amananshukumar/leetcode-repo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
@@ -358,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/amananshukumar/leetcode-repo/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/amananshukumar/leetcode-repo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
