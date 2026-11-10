@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amananshukumar/leetcode-repo/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amananshukumar/leetcode-repo/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3693-climbing-stairs-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amananshukumar/leetcode-repo/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amananshukumar/leetcode-repo/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/amananshukumar/leetcode-repo/tree/master/3731-find-missing-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amananshukumar/leetcode-repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/amananshukumar/leetcode-repo/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
 | ------- |
