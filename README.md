@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amananshukumar/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amananshukumar/leetcode-repo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/amananshukumar/leetcode-repo/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amananshukumar/leetcode-repo/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/amananshukumar/leetcode-repo/tree/master/3498-reverse-degree-of-a-string) |
