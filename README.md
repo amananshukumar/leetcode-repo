@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/amananshukumar/leetcode-repo/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amananshukumar/leetcode-repo/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amananshukumar/leetcode-repo/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/amananshukumar/leetcode-repo/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/amananshukumar/leetcode-repo/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amananshukumar/leetcode-repo/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amananshukumar/leetcode-repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amananshukumar/leetcode-repo/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amananshukumar/leetcode-repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amananshukumar/leetcode-repo/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/amananshukumar/leetcode-repo/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/amananshukumar/leetcode-repo/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amananshukumar/leetcode-repo/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amananshukumar/leetcode-repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/amananshukumar/leetcode-repo/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amananshukumar/leetcode-repo/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amananshukumar/leetcode-repo/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/amananshukumar/leetcode-repo/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amananshukumar/leetcode-repo/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amananshukumar/leetcode-repo/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/amananshukumar/leetcode-repo/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
